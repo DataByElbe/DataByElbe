@@ -4,7 +4,7 @@
 👩🏾‍🎓 Masters in Public Health from the University of Texas Tech Health Science Center<br/>
 
 ### Socials 🌐
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elbebiniam) [![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/elbebiniam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elbebiniam) [![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/elbethel.biniam)
 
 
 ### Tech Stack 💻
