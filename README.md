@@ -1,7 +1,6 @@
-## Hello, I'm Elbe! 👋
+## Hello, I'm Elbe! 👩🏾‍💻
 
-👩🏾‍💻 Public Health Data Analyst sharing about my journey and learnings in tech<br/>
-👩🏾‍🎓 Masters in Public Health from the University of Texas Tech Health Science Center<br/>
+Results-driven Data Analyst with a Master of Public Health (MPH) and extensive experience in healthcare analytics. Proven expertise in using SQL, Tableau/PowerBI, and Excel to deliver actionable insights that drive business process improvements. Adept at conducting root cause analysis, leading requirement gathering, and optimizing workflows to increase operational efficiency by up to 25%. Skilled in Salesforce CRM implementation and project management methodologies like Agile and Waterfall. Passionate about leveraging data to inform strategic decisions and improve outcomes.
 
 ### Socials 🌐
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elbebiniam) [![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/elbethel.biniam)
