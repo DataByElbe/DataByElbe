@@ -16,7 +16,7 @@ Results-driven Data Analyst with a Master of Public Health (MPH) and extensive e
 [![Elbe's GitHub stats](https://github-readme-stats.vercel.app/api?username=DataByElbe&show_icons=true&theme=onedark)](https://github.com/DataByElbe/github-readme-stats)
 
 
-### 🏆 GitHub Trophies
+### GitHub Trophies 🏆
 ![](https://github-profile-trophy.vercel.app/?username=DataByElbe&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 
